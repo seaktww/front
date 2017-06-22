@@ -51,7 +51,7 @@
       <div class="container-newevent">
         <div class="title">News & Events</div>
         <div class="container-newevent-content">
-          <!-- <img src="#"> -->
+          <img src="../assets/logo.png">
           <div class="content">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin blandit quis felis at bibendum. Nullam quis justo elit. Nam condimentum sapien lobortis nibh tincidunt volutpat. Duis finibus justo nisi, sed laoreet sapien mollis at. Aenean venenatis, sem in interdum sagittis, sem libero bibendum felis, vel ullamcorper turpis purus non purus. Integer dictum dapibus diam, efficitur venenatis justo pulvinar ut. Curabitur justo mauris, consequat in urna ac, consectetur accumsan elit.
 
@@ -59,7 +59,7 @@
           </div>
         </div>
         <div class="container-newevent-content">
-          <!-- <img src="#"> -->
+          <img src="../assets/logo.png">
           <div class="content">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin blandit quis felis at bibendum. Nullam quis justo elit. Nam condimentum sapien lobortis nibh tincidunt volutpat. Duis finibus justo nisi, sed laoreet sapien mollis at. Aenean venenatis, sem in interdum sagittis, sem libero bibendum felis, vel ullamcorper turpis purus non purus. Integer dictum dapibus diam, efficitur venenatis justo pulvinar ut. Curabitur justo mauris, consequat in urna ac, consectetur accumsan elit.
 
@@ -108,11 +108,12 @@ export default {
 
 /*all section*/
 .homepage {
-  margin-top: 80px;
+  margin-top: 120px;
   padding-top: 20px;
   overflow-y: scroll;
 }
 .title {
+  display: flex;
   padding-left: 25px;
   padding: 30px;
 }
