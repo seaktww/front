@@ -1,7 +1,7 @@
 <template>
-  <div class="promotion">
+  <div class="product">
     <div class="title">
-      PROMOTION
+      PRODUCT
     </div>
     <div class="container-logo-2">
       <div class="container-logo">
@@ -40,12 +40,12 @@
 
 <script>
   export default {
-    name: 'promotion'
+    name: 'product'
   }
 </script>
 
 <style scoped>
-  .promotion {
+  .product {
     margin-top: 150px;
     overflow-y: scroll;
   }

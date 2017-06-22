@@ -7,6 +7,7 @@
       <router-link to="/">Hello</router-link>
       <router-link to="/homepage">Homepage</router-link>
       <router-link to="/promotion">Promotion</router-link>
+      <router-link to="/product">Product</router-link>
     </div>
   </div>
 </template>
