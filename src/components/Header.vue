@@ -6,6 +6,7 @@
     <div class="container-link">
       <router-link to="/">Hello</router-link>
       <router-link to="/homepage">Homepage</router-link>
+      <router-link to="/promotion">Promotion</router-link>
     </div>
   </div>
 </template>
